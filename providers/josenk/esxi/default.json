@@ -1,0 +1,27 @@
+{
+  "archSrc": {
+    "aarch64-darwin": {
+      "sha256": "56f30098aca0874210c4546530a5bfa5dd49bfad63950f3d9f3623cc6767280b",
+      "url": "https://github.com/josenk/terraform-provider-esxi/releases/download/v1.10.3/terraform-provider-esxi_1.10.3_darwin_arm64.zip"
+    },
+    "aarch64-linux": {
+      "sha256": "9072bdd960ef85dc735b82423560b027ebb44790af1e84b122f1014f96acfc91",
+      "url": "https://github.com/josenk/terraform-provider-esxi/releases/download/v1.10.3/terraform-provider-esxi_1.10.3_linux_arm64.zip"
+    },
+    "i686-linux": {
+      "sha256": "208a6a8092fa50d63fe1780447f2c4c3115b1987902a0c986452172c2c35677e",
+      "url": "https://github.com/josenk/terraform-provider-esxi/releases/download/v1.10.3/terraform-provider-esxi_1.10.3_linux_386.zip"
+    },
+    "x86_64-darwin": {
+      "sha256": "9e6e1c2a7bf93c4705d280cea5b3d6bfb84c4540b92563e64fbc3a20155ef775",
+      "url": "https://github.com/josenk/terraform-provider-esxi/releases/download/v1.10.3/terraform-provider-esxi_1.10.3_darwin_amd64.zip"
+    },
+    "x86_64-linux": {
+      "sha256": "8b415ab7e39ca8e16f923bc73a8af418859faa594d97ed73e3a4aff7a736b08f",
+      "url": "https://github.com/josenk/terraform-provider-esxi/releases/download/v1.10.3/terraform-provider-esxi_1.10.3_linux_amd64.zip"
+    }
+  },
+  "owner": "josenk",
+  "repo": "esxi",
+  "version": "1.10.3"
+}
